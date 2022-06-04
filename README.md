@@ -166,6 +166,7 @@ kill %1
 작업번호 접두어 %를 사용하여 연계가능
 
 # kill
+![image](/img/kill.png)
 특정 프로세스를 죽인다.
 ```bash
 kill [옵션] 인자(PID)
