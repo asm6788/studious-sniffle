@@ -27,7 +27,7 @@
 ### 상태 에 관한 표기
 |상태|풀네임|설명|
 |---|---|---|
-|D|Uninterruptiable sleep|보통 I/O를 대기|
+|D|Uninterruptiable sleep|깨울수 없는 대기상태. *보통 I/O를 대기*|
 |R|Running or runnable|실행중 혹은 실행가능|
 |S|Interruptible sleep|깨울수 있는 대기상태|
 |T|Stopped|중지|
