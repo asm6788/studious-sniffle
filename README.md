@@ -167,6 +167,7 @@ kill %1
 
 # kill
 ![image](/img/kill.png)
+
 특정 프로세스를 죽인다.
 ```bash
 kill [옵션] 인자(PID)
